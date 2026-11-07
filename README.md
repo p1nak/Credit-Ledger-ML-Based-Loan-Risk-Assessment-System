@@ -412,4 +412,4 @@ services:
 ## 15. Author & Contact
 
 **Pinak**
-- **GitHub**: [@Pinak](https://github.com/p1nak) *(Update with your GitHub handle)*
+- **GitHub**: [@Pinak](https://github.com/p1nak) 
